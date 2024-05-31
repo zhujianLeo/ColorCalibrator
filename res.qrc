@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/font/fontello.ttf</file>
+    </qresource>
+</RCC>
+
